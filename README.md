@@ -1,6 +1,12 @@
 ## DSVendas
 
 
+<p align="center">
+    <img alt="DSVendas" src="frontend/src/assets/img/ds-dark.svg" width="50%">
+</p>
+
+
+
 
 
 ## 💻 Projeto
