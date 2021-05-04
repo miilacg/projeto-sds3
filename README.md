@@ -5,7 +5,7 @@
 
 ## 💻 Projeto
 
-O DSVendas é uma aplicação para analisar o desempenho das suas vendas por diferentes perspectivas
+O DSVendas é uma aplicação para analisar o desempenho das suas vendas por diferentes perspectivas.
 
 
 
