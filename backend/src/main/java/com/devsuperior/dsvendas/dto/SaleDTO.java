@@ -29,7 +29,7 @@ public class SaleDTO {
 		id = entity.getId();
 		visited = entity.getVisited();
 		deals = entity.getDeals();
-		amount = entity.getAmout();
+		amount = entity.getAmount();
 		date = entity.getDate();
 		seller = new SellerDTO(entity.getSeller());
 	}
@@ -58,12 +58,12 @@ public class SaleDTO {
 		this.deals = deals;
 	}
 
-	public Double getAmout() {
+	public Double getAmount() {
 		return amount;
 	}
 
-	public void setAmout(Double amout) {
-		this.amount = amout;
+	public void setAmount(Double amount) {
+		this.amount = amount;
 	}
 
 	public LocalDate getDate() {

@@ -61,11 +61,11 @@ public class Sale {
 		this.deals = deals;
 	}
 
-	public Double getAmout() {
+	public Double getAmount() {
 		return amount;
 	}
 
-	public void setAmout(Double amout) {
+	public void setAmount(Double amout) {
 		this.amount = amout;
 	}
 
